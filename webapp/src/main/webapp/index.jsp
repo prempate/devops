@@ -5,3 +5,4 @@
 <h4> Testing </h4>
 <h5> Releasing </h5>
 <h6> successfully running on production </h6>
+<h7> Deploy it on DC2 as well </h7>
